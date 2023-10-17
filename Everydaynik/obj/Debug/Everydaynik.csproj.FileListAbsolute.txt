@@ -1,0 +1,8 @@
+C:\Users\MIKHAIL\source\repos\Everydaynik\Everydaynik\bin\Debug\Everydaynik.exe.config
+C:\Users\MIKHAIL\source\repos\Everydaynik\Everydaynik\bin\Debug\Everydaynik.exe
+C:\Users\MIKHAIL\source\repos\Everydaynik\Everydaynik\bin\Debug\Everydaynik.pdb
+C:\Users\MIKHAIL\source\repos\Everydaynik\Everydaynik\obj\Debug\Everydaynik.csproj.AssemblyReference.cache
+C:\Users\MIKHAIL\source\repos\Everydaynik\Everydaynik\obj\Debug\Everydaynik.csproj.SuggestedBindingRedirects.cache
+C:\Users\MIKHAIL\source\repos\Everydaynik\Everydaynik\obj\Debug\Everydaynik.csproj.CoreCompileInputs.cache
+C:\Users\MIKHAIL\source\repos\Everydaynik\Everydaynik\obj\Debug\Everydaynik.exe
+C:\Users\MIKHAIL\source\repos\Everydaynik\Everydaynik\obj\Debug\Everydaynik.pdb
